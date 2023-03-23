@@ -14,9 +14,7 @@ using namespace std;
 #include "sources/player.hpp"
 #include "sources/game.hpp"
 #include "sources/card.hpp"
-namespace ariel{
 
-}
 
 using namespace ariel;
 
