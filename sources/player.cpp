@@ -12,10 +12,10 @@ Player::Player(string player_Name)
 
 int Player::cardesTaken()
 {
-    return 1;
+    return 0;
 }
 
 int Player::stacksize()
 {
-    return 1;
+    return 0;
 }
