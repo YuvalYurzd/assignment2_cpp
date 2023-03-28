@@ -10,7 +10,7 @@ private:
     Player p2;
 
 public:
-    Game(Player p1, Player p2);
+    Game(Player pl1, Player pl2);
     void playTurn();
     void printLastTurn();
     void playAll();

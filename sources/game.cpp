@@ -3,10 +3,10 @@
 #include "iostream"
 using namespace std;
 
-Game::Game(Player p1, Player p2) 
+Game::Game(Player pl1, Player pl2) 
 {
-    this->p1 = p1;
-    this->p2 = p2;
+    this->p1 = pl1;
+    this->p2 = pl2;
 }
 void Game::playTurn()
 {
